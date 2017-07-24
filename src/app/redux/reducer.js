@@ -23,7 +23,7 @@ import studies from '../pulsetileui/pages/dicom/studies-reducer-all';
 import series from '../pulsetileui/pages/dicom/series-reducer-all';
 import instanceGet from '../pulsetileui/pages/dicom/instance-reducer-get';
 import instanceIdGet from '../pulsetileui/pages/dicom/instance-id-reducer-get';
-import findReferral from '../pulsetileui/pages/documents/documents-reducer-find-referral';
+// import findReferral from '../pulsetileui/pages/documents/documents-reducer-find-referral';
 
 import plugins from '../plugins';
 
@@ -32,11 +32,11 @@ let reducers = {
   patientsGet,
   search,
   chart,
-  studies,
-  series,
-  instanceGet,
-  instanceIdGet,
-  findReferral
+  // studies,
+  // series,
+  // instanceGet,
+  // instanceIdGet,
+  // findReferral
 };
 
 plugins.forEach((plugin)=>{

@@ -65,16 +65,16 @@ import MainComponent from './pulsetileui/main-component/main.component';
 import HomeSidebarComponent from './pulsetileui/pages/patients-lookup/home-sidebar.component';
 import ServiceRequests from './services/serviceRequests.js';
 import ServiceStateManager from './services/serviceStateManager.js';
-import ServiceVitalsSigns from './pulsetileui/pages/vitals/serviceVitalsSigns.js';
-import ServiceActions from './pulsetileui/pages/dicom/serviceActions.js';
+// import ServiceVitalsSigns from './pulsetileui/pages/vitals/serviceVitalsSigns.js';
+// import ServiceActions from './pulsetileui/pages/dicom/serviceActions.js';
 import ServiceFormatted from './services/serviceFormatted.js';
 import ServiceDateTimePicker from './services/serviceDateTimePicker.js';
 import TemplateService from './services/TemplateService.js';
 import ServiceThemes from './services/serviceThemes.js';
-import ServiceTransferOfCare from './pulsetileui/pages/transfer-of-care/serviceTransferOfCare.js';
+// import ServiceTransferOfCare from './pulsetileui/pages/transfer-of-care/serviceTransferOfCare.js';
 import ServicePatients from './pulsetileui/pages/patients-list/servicePatients.js';
 
-import ScheduleModal from './pulsetileui/pages/events/schedule-modal';
+// import ScheduleModal from './pulsetileui/pages/events/schedule-modal';
 import ConfirmationModal from './pulsetileui/confirmation/confirmation';
 import ConfirmationRedirectModal from './pulsetileui/confirmation/confirmation-redirect';
 import ConfirmationDocsModal from './pulsetileui/confirmation/confirmation-documents';
@@ -112,7 +112,7 @@ let app = angular
         'ngSanitize',
         'dndLists'
     ])
-    .factory('ScheduleModal', ScheduleModal)
+    // .factory('ScheduleModal', ScheduleModal)
     .factory('ConfirmationModal', ConfirmationModal)
     .factory('ConfirmationRedirectModal', ConfirmationRedirectModal)
     .factory('ConfirmationDocsModal', ConfirmationDocsModal)
@@ -124,13 +124,13 @@ let app = angular
 
     .service('templateService', TemplateService)
     .service('serviceThemes', ServiceThemes)
-    .service('serviceTransferOfCare', ServiceTransferOfCare)
+    // .service('serviceTransferOfCare', ServiceTransferOfCare)
     .service('servicePatients', ServicePatients)
     .service('serviceFormatted', ServiceFormatted)
     .service('serviceRequests', ServiceRequests)
     .service('serviceStateManager', ServiceStateManager)
-    .service('serviceVitalsSigns', ServiceVitalsSigns)
-    .service('serviceActions', ServiceActions)
+    // .service('serviceVitalsSigns', ServiceVitalsSigns)
+    // .service('serviceActions', ServiceActions)
     .service('serviceDateTimePicker', ServiceDateTimePicker);
 
   plugins.forEach((plugin)=>{

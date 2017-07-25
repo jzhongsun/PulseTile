@@ -71,7 +71,7 @@ PulseTile uses Webpack together for its build system.
 
 Additional information on such topics as data structure we're using is available within the [PulseTile Documentation](http://docs.pulsetile.com/)
 
-**NB** Note that the PulseTile Framework is easiest to understand/experiment with in the context of a wider healthcare stack.
+Note that the PulseTile Framework is easiest to understand/experiment with in the context of a wider healthcare stack.
 
 Please check out the [Ripple Foundation Showcase Stack Documentation](http://docs-showcase.ripple.foundation/) for a better understanding of PulseTile in that context.
 One of the features available is an install script that gets PulseTile up and running with a set of API provided test data ready to explore.  

@@ -94,7 +94,6 @@ If you need support with a particular issue/pull request, please let us know and
 
 Thanks for your interest in PulseTile
 
-The Ripple Foundation 
-
+The Ripple Foundation
 http://ripple.foundation/
  

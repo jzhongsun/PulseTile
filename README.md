@@ -78,7 +78,7 @@ One of the features available is an install script that gets PulseTile up and ru
 
 
 ## Product/Project Support
-This product /project is supported by the Ripple Foundation, who aim to enhance the PulseTile framework. 
+This product /project is supported by the Ripple Foundation, who aim to enhance the PulseTile framework, as part of our mission towards an open platform in healthcare. 
 We are working to fund as many of the enhancements of PulseTile as we can based on projects that our non profit organisation supports.
 
 We will try to fix any key bugs and documentation errors ourselves. 
@@ -94,6 +94,6 @@ If you need support with a particular issue/pull request, please let us know and
 
 Thanks for your interest in PulseTile
 
-The Ripple Foundation
+The Ripple Foundation 
 http://ripple.foundation/
  

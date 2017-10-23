@@ -75,3 +75,25 @@ Note that the PulseTile Framework is easiest to understand/experiment with in th
 
 Please check out the [Ripple Foundation Showcase Stack Documentation](http://docs-showcase.ripple.foundation/) for a better understanding of PulseTile in that context.
 One of the features available is an install script that gets PulseTile up and running with a set of API provided test data ready to explore.  
+
+
+## Product/Project Support
+This product /project is supported by the Ripple Foundation, who aim to enhance the PulseTile framework, as part of our mission towards an open platform in healthcare. 
+We are working to fund as many of the enhancements of PulseTile as we can based on projects that our non profit organisation supports.
+
+We will try to fix any key bugs and documentation errors ourselves. 
+Other issues, requests for enhancements or feature additions, will be added to the project backlog.
+
+The Ripple Foundation is committed to offering free and open software, with quality, free and open documentation, but unfortunately is unable to offer free support for all issues/pull requests in the backlog.
+
+(Our latest thinking on the best model to support our open platform mission in healthcare may best be understood by reading this article. https://opensource.com/business/16/4/refactoring-open-source-business-models
+
+If you would like to offer some of your energy/ suggest other ideas towards progressing an open platform in healthcare, please contact us at info@ripple.foundation )
+
+If you need support with a particular issue/pull request, please let us know and we can consider a bounty source (https://www.bountysource.com/), to get these reviewed / addressed.
+
+Thanks for your interest in PulseTile
+
+The Ripple Foundation  
+http://ripple.foundation/
+ 
